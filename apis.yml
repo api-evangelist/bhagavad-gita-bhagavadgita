@@ -1,0 +1,32 @@
+aid: bhagavad-gita-bhagavadgita
+name: Bhagavad Gita
+description: "Bhagavad Gita text"
+url: https://bhagavadgita.io/api
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Books"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Books
+  - Public APIs
+apis:
+  - name: Bhagavad Gita
+    description: "Bhagavad Gita text"
+    humanURL: https://bhagavadgita.io/api
+    baseURL: https://bhagavadgita.io/api
+    tags:
+      - Books
+    properties:
+      - type: Documentation
+        url: https://bhagavadgita.io/api
+common:
+  - type: Website
+    url: https://bhagavadgita.io/api
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
