@@ -39,7 +39,6 @@ apis:
   - name: Bhagavad Gita
     description: "Bhagavad Gita text"
     humanURL: https://bhagavadgita.io/api
-    baseURL: https://bhagavadgita.io/api
     tags:
       - Books
     properties:
